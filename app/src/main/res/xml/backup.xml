@@ -4,12 +4,12 @@
         domain="sharedpref"
         path="." />
     <include
-        domain="database"
+        domain="file"
         path="." />
     <include
         domain="root"
         path="." />
     <include
-        domain="file"
+        domain="database"
         path="." />
 </full-backup-content>
